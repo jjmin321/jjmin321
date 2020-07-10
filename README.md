@@ -1,6 +1,6 @@
-# 🚀 jjmin321
-👨‍🎓 대구소프트웨어고등학교에 진학중인 풀스택 개발자의 꿈을 가진 백-엔드 개발을 주로 하고 있는 2학년 제정민입니다.
-
+# 🚀 jjmin321 제정민 고등학교 2학년
+👨‍🎓 대구소프트웨어고등학교에서 백-엔드 개발을 주로 하고 있으며 어떤 기술이나 분야든 습득하기 위해 노력하는 학생입니다.
+📃 https://jjmin321.github.io
 
 <!--
 **jjmin321/jjmin321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
