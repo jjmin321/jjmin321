@@ -2,6 +2,12 @@
 <p>👨‍🎓 대구소프트웨어고등학교에서 백-엔드 개발을 주로 하고 있으며 어떤 기술이나 분야든 습득하기 위해 노력하는 학생입니다.</p>
 📃 https://jjmin321.github.io
 
+# 📖 Language
+GO ⭐⭐⭐⭐⭐
+JAVA ⭐⭐
+JAVASCRIPT ⭐⭐
+PYTHON ⭐⭐
+
 <!--
 **jjmin321/jjmin321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
