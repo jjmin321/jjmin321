@@ -3,10 +3,10 @@
 📃 https://jjmin321.github.io
 
 # 📖 Language
-GO ⭐⭐⭐⭐⭐
-JAVA ⭐⭐
-JAVASCRIPT ⭐⭐
-PYTHON ⭐⭐
+GO ⭐⭐⭐⭐⭐<br>
+JAVA ⭐⭐<br>
+JAVASCRIPT ⭐⭐<br>
+PYTHON ⭐⭐<br>
 
 <!--
 **jjmin321/jjmin321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
