@@ -1,4 +1,6 @@
-### Hi there 👋
+# 🚀 Jeongmin Je
+👨‍🎓 대구소프트웨어고등학교에 진학중인 풀스택 개발자의 꿈을 가진 백-엔드 개발을 주로 하고 있는 2학년 제정민입니다.
+
 
 <!--
 **jjmin321/jjmin321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
