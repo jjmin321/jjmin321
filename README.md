@@ -7,7 +7,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jjmin321)](https://github.com/jjmin321)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100028649371922)](https://www.facebook.com/profile.php?id=100028649371922)
 [![Github Blog Badge](https://img.shields.io/badge/-Github Blog-orange?style=flat-square&link=https://jjmin321.github.io/)](https://jjmin321.github.io/)
-<br>
+
 [![Github Followers](https://img.shields.io/github/followers/jjmin321?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/jjmin321?tab=followers)
 
 # 📖 My Stack of Back-End Frameworks 
