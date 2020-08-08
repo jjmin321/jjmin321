@@ -10,18 +10,20 @@
 
 [![Github Followers](https://img.shields.io/github/followers/jjmin321?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/jjmin321?tab=followers)
 
+# 📑 My Stacks
+- JAVA & Spring & JSP
+- GO & Echo & GORM
+- JAVASCRIPT & NodeJS
+- Server & Network programming
+- Linux Ubuntu & Debian 
+- PostgreSql & MySQL(MariaDB)
+
 # 📖 My Stack of Back-End Frameworks 
 ```text
 Echo(GO)   ████████████████░░░░   
 NodeJs     ██████░░░░░░░░░░░░░░
 Spring     █████░░░░░░░░░░░░░░░   
 ```
-
-# 📑 My Stack of Databases & ORM
-- PostgreSql
-- MySQL(MariaDB)
-- MongoDB
-- GORM
 
 # 🍊 I'm currently learning
 - Android Programming
