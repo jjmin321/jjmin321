@@ -28,6 +28,4 @@ Spring     █████░░░░░░░░░░░░░░░
 # 🍊 I'm currently learning
 - Android Programming
 - Kotlin
-- Spring
-
 
