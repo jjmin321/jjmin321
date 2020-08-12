@@ -18,13 +18,6 @@
 - Linux Ubuntu & Debian 
 - PostgreSql & MySQL(MariaDB)
 
-# 📖 My Stack of Back-End Frameworks 
-```text
-Echo(GO)   ████████████████░░░░   
-NodeJs     ██████░░░░░░░░░░░░░░
-Spring     █████░░░░░░░░░░░░░░░   
-```
-
 # 🍊 I'm currently learning
 - Android Programming
 - Kotlin
