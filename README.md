@@ -19,5 +19,4 @@
 - PostgreSql & MySQL(MariaDB)
 
 # 🍊 I'm currently learning
-- Algorithm
-
+- 
