@@ -19,5 +19,5 @@
 - PostgreSql & MySQL(MariaDB)
 
 # 🍊 I'm currently learning
-- Algorithm
+- WebSocket
 - VueJS
