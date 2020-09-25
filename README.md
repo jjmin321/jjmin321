@@ -2,7 +2,7 @@
 <p>👨‍🎓 대구소프트웨어고등학교에서 백엔드를 포함한 다양한 기술 습득하기 위해 노력하는 학생입니다.</p>
 
 [![jjmin321's github stats](https://github-readme-stats.vercel.app/api?username=jjmin321&show_icons=true&hide_border=true&count_private=true)](https://github.com/jjmin321)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjmin321&hide=r,jupyter%20notebook,python)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjmin321&hide=r,jupyter%20notebook,python,c#,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjmin321)](https://hits.seeyoufarm.com)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jjmin321)](https://github.com/jjmin321)
