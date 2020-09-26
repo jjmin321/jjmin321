@@ -4,16 +4,15 @@
 [![jjmin321's github stats](https://github-readme-stats.vercel.app/api?username=jjmin321&show_icons=true&hide_border=true&count_private=true)](https://github.com/jjmin321)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjmin321&hide=r,jupyter%20notebook,python,c%23)](https://github.com/anuraghazra/github-readme-stats)
 
-# 📑 My Stacks
-- JAVA & Spring & JSP
-- GO & Echo & GORM
-- JAVASCRIPT & NodeJS
-- Server & Network programming
-- Linux Ubuntu & Debian 
-- PostgreSql & MySQL(MariaDB)
+### 사용&학습 기술  
 
-# 🍊 I'm currently learning
-- WebSocket
-- VueJS
-
-
+||이름|설명|진행|
+|---|---|---|---|
+|![](https://img.icons8.com/color/24/000000/golang.png)|Golang|Go언어를 통해 객체지향,함수형 프로그래밍을 할 수 있습니다|![90%](https://progress-bar.dev/90)|
+|![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|Java|자바를 통해 객체지향 프로그래밍을 할 수 있습니다|![80%](https://progress-bar.dev/80)|
+|![](https://img.icons8.com/color/24/000000/javascript.png)|Javascript|Vue와 Node를 사용하기 위해 자바스크립트를 공부합니다|![40%](https://progress-bar.dev/40)|
+|![](https://img.icons8.com/color/24/000000/add-database.png)|DB|MySQL, PostgreSQL 등 RDBMS를 사용할 수 있습니다|![80%](https://progress-bar.dev/80)|
+|![](https://img.icons8.com/color/24/000000/api.png)|API|GO, Spring Boot, NodeJS를 통해 REST API를 제작할 수 있습니다|![80%](https://progress-bar.dev/80)|
+|![](https://img.icons8.com/color/24/000000/vue-js.png)|VueJS|간단한 웹사이트 제작을 위해 공부합니다|![30%](https://progress-bar.dev/30)|
+|![](https://img.icons8.com/color/24/000000/git.png)|Git&Github|Git을 통해 소스코드를 공개하는 편이며, 협업할 때 사용할 수 있습니다|![70%](https://progress-bar.dev/70)|
+|![](https://img.icons8.com/color/24/000000/linux.png)|Linux|Linux를 잘 사용하며 서버 배포를 능숙하게 할 수 있습니다|![60%](https://progress-bar.dev/60)|
