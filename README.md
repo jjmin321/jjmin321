@@ -8,12 +8,12 @@
 
 ||이름|설명|진행|
 |---|---|---|---|
-|![](https://img.icons8.com/color/24/000000/golang.png)|Golang|고를 사용하여 객체지향,함수형 프로그래밍을 할 수 있습니다|![90%](https://progress-bar.dev/90)|
+|![](https://img.icons8.com/color/24/000000/golang.png)|Golang|고를 사용하여 객체지향,함수형 프로그래밍을 할 수 있습니다|![85%](https://progress-bar.dev/85)|
 |![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|Java|자바를 사용하여 객체지향 프로그래밍을 할 수 있습니다|![80%](https://progress-bar.dev/80)|
 |![](https://img.icons8.com/color/24/000000/add-database.png)|DB|MySQL, PostgreSQL 등 관계형 데이터베이스를 사용할 수 있습니다|![80%](https://progress-bar.dev/80)|
 |![](https://img.icons8.com/color/24/000000/api.png)|API Server|고, 스프링 부트, 노드를 통해 REST API Server를 제작할 수 있습니다|![80%](https://progress-bar.dev/80)|
 |![](https://img.icons8.com/color/24/000000/network.png)|Network|고, 자바를 사용하여 네트워크 프로그래밍을 할 수 있습니다|![60%](https://progress-bar.dev/60)|
 |![](https://img.icons8.com/color/24/000000/git.png)|Git&Github|깃을 통해 소스코드를 공개하는 편이며, 협업할 때 사용할 수 있습니다|![70%](https://progress-bar.dev/70)|
 |![](https://img.icons8.com/color/24/000000/linux.png)|Linux|리눅스를 다룰 줄 알고 서버 배포를 능숙하게 할 수 있습니다|![60%](https://progress-bar.dev/60)|
-|![](https://img.icons8.com/color/24/000000/javascript.png)|Javascript|뷰와 노드를 사용하기 위해 자바스크립트를 공부합니다|![40%](https://progress-bar.dev/40)|
+|![](https://img.icons8.com/color/24/000000/javascript.png)|Javascript|뷰와 노드를 사용하기 위해 자바스크립트를 공부합니다|![50%](https://progress-bar.dev/50)|
 |![](https://img.icons8.com/color/24/000000/vue-js.png)|VueJS|간단한 웹사이트 제작을 위해 공부합니다|![30%](https://progress-bar.dev/30)|
