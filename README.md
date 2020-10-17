@@ -8,10 +8,10 @@
 
 ||이름|설명|진행|
 |---|---|---|---|
-|![](https://img.icons8.com/color/24/000000/golang.png)|Golang|주로 백엔드 개발에 사용하지만 어떤 개발도 자신있게 할 수 있습니다|![80%](https://progress-bar.dev/80)|
+|![](https://img.icons8.com/color/24/000000/golang.png)|Golang|주로 백엔드 개발에 사용하며 다양한 패러다임에 맞는 프로그래밍을 할 수 있습니다|![80%](https://progress-bar.dev/80)|
 |![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|Java|주로 백엔드 개발에 사용하며 객체지향 프로그래밍을 할 수 있습니다|![70%](https://progress-bar.dev/70)|
-|![](https://img.icons8.com/color/24/000000/javascript.png)|Javascript|주로 프론트엔드와 백엔드 개발에 사용합니다|![60%](https://progress-bar.dev/60)|
-|![](https://img.icons8.com/color/24/000000/vue-js.png)|VueJS|간단한 웹사이트를 제작할 수 있습니다|![60%](https://progress-bar.dev/40)|
+|![](https://img.icons8.com/color/24/000000/javascript.png)|Javascript|주로 프론트엔드와 백엔드 개발에 사용합니다|![70%](https://progress-bar.dev/70)|
+|![](https://img.icons8.com/color/24/000000/vue-js.png)|VueJS|간단한 웹사이트를 제작할 수 있습니다|![60%](https://progress-bar.dev/60)|
 |![](https://img.icons8.com/color/24/000000/add-database.png)|DB|MySQL, PostgreSQL 등 관계형 데이터베이스를 사용할 수 있습니다|![70%](https://progress-bar.dev/70)|
 |![](https://img.icons8.com/color/24/000000/api.png)|API Server|고, 스프링 부트, 노드를 통해 REST API Server를 제작할 수 있습니다|![70%](https://progress-bar.dev/70)|
 |![](https://img.icons8.com/color/24/000000/network.png)|Network|고, 자바를 사용하여 네트워크 프로그래밍을 할 수 있습니다|![60%](https://progress-bar.dev/60)|
