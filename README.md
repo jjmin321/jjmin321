@@ -1,5 +1,6 @@
 # 🚀 제정민 | 고등학교 2학년
 <p>👨‍🎓 대구소프트웨어고등학교에서 백엔드를 포함한 다양한 기술을 습득하기 위해 노력하는 학생입니다.</p>
+<p>📧 E-mail : mailto:jjmin321@naver.com</p>
 
 [![jjmin321's github stats](https://github-readme-stats.vercel.app/api?username=jjmin321&show_icons=true&hide_border=true&count_private=true)](https://github.com/jjmin321)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjmin321&hide=r,jupyter%20notebook,python,c%23)](https://github.com/anuraghazra/github-readme-stats)
