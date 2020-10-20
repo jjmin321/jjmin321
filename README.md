@@ -1,4 +1,4 @@
-# 🚀 제정민 | 고등학교 2학년
+# 🚀 제정민 | 고등학교 2학년 | <a href="mailto:jjmin321@naver.com">📧 e-mail</a> 
 <p>👨‍🎓 대구소프트웨어고등학교에서 백엔드를 포함한 다양한 기술을 습득하기 위해 노력하는 학생입니다.</p>
 
 [![jjmin321's github stats](https://github-readme-stats.vercel.app/api?username=jjmin321&show_icons=true&hide_border=true&count_private=true)](https://github.com/jjmin321)
@@ -17,5 +17,3 @@
 |![](https://img.icons8.com/color/24/000000/network.png)|Network|고, 자바를 사용하여 네트워크 프로그래밍을 할 수 있습니다|![60%](https://progress-bar.dev/60)|
 |![](https://img.icons8.com/color/24/000000/git.png)|Git&Github|깃을 통해 소스코드를 공개하는 편이고 협업할 때 사용할 수 있습니다|![70%](https://progress-bar.dev/70)|
 |![](https://img.icons8.com/color/24/000000/linux.png)|Linux|주로 서버 운영을 할 때 사용하며 CLI환경에 익숙합니다|![60%](https://progress-bar.dev/60)|
-
-<p>📧 <a href="mailto:jjmin321@naver.com">링크를 클릭하시면 메일을 보내실 수 있습니다</a></p>
