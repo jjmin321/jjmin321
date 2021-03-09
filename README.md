@@ -10,7 +10,7 @@
 |---|---|---|---|
 |![](https://img.icons8.com/color/24/000000/golang.png)|Go|REST API 서버와 채팅 서버 개발을 할 수 있습니다|![70%](https://progress-bar.dev/70)|
 |![](https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png)|Java|Spring Boot를 사용해 REST API 서버 개발을 할 수 있습니다|![60%](https://progress-bar.dev/60)|
-|![](https://img.icons8.com/color/24/000000/python.png)|Python|알고리즘 문제를 풀 때 사용하며 Flask를 사용해 REST API 서버 개발을 할 수 있습니다|![60%](https://progress-bar.dev/60)|
+|![](https://img.icons8.com/color/24/000000/python.png)|Python|알고리즘 문제를 풀 때 사용합니다|![60%](https://progress-bar.dev/60)|
 |![](https://img.icons8.com/color/24/000000/javascript.png)|Javascript|자바스크립트 라이브러리들을 사용하여 개발을 할 수 있습니다|![60%](https://progress-bar.dev/60)|
 |![](https://img.icons8.com/color/24/000000/typescript.png)|Typescript|자바스크립트로 프로젝트를 진행할 때 불편함을 느껴 공부합니다|![40%](https://progress-bar.dev/40)|
 |![](https://img.icons8.com/color/24/000000/nodejs.png)|NodeJS|REST API 서버 개발을 할 수 있습니다|![60%](https://progress-bar.dev/60)|
