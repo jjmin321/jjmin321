@@ -23,8 +23,8 @@
 ### 그 외
 ||이름|설명|진행|
 |---|---|---|---|
+|![](https://img.icons8.com/color/24/000000/docker.png)|Docker|도커와 도커 컴퍼즈를 이용해 웹, 서버, 데이터베이스를 독립된 개발 환경으로 구성할 수 있습니다|![70%](https://progress-bar.dev/70)|
 |![](https://img.icons8.com/color/24/000000/python.png)|Python|알고리즘 문제를 풀 때 주로 사용합니다|![60%](https://progress-bar.dev/60)|
 |![](https://img.icons8.com/color/24/000000/git.png)|Git&Github|깃을 통해 소스코드를 공개하는 편이고 협업할 때 사용할 수 있습니다|![60%](https://progress-bar.dev/60)|
 |![](https://img.icons8.com/color/24/000000/linux.png)|Linux|주로 서버 운영을 할 때 사용하며 CLI환경에 익숙합니다|![60%](https://progress-bar.dev/60)|
-|![](https://img.icons8.com/color/24/000000/docker.png)|Docker|도커와 도커 컴퍼즈를 이용해 웹, 서버, 데이터베이스를 독립된 개발 환경으로 구성할 수 있습니다|![70%](https://progress-bar.dev/70)|
 |![](https://img.icons8.com/color/24/000000/google-cloud-platform.png)|Google Cloud Platform|구글 클라우드 플랫폼을 사용하여 서비스를 배포합니다|![60%](https://progress-bar.dev/60)|
