@@ -1,4 +1,4 @@
-# 🚀 제정민 | 19살 | <a href="mailto:jjmin321@naver.com">📧 e-mail</a> 
+# 🚀 제정민 | 대구소프트웨어고등학교 3학년 | <a href="mailto:jjmin321@naver.com">📧 e-mail</a> 
 <p>👨‍🎓 다양한 기술을 습득하기 위해 노력하는 19살입니다.</p>
 
 ### 백엔드   
